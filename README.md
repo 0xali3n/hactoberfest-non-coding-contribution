@@ -1,7 +1,7 @@
 # Hacktoberfest Low Code or Non Code Contributions
 Contributing to open source isn’t just for technical folks who want to write code. Hacktoberfest welcomes people of any experience level to participate, and low-code and non-code contributions are fantastic choices for folks who don’t have a lot of technical knowledge. Here are some examples of ways you can contribute to open-source projects:
 
-<p align="center"><img width="576" alt="Hfest-Logo-2-Color-Void@2x" src="https://user-images.githubusercontent.com/72184293/193453787-7815c591-e093-4d72-9522-39cf823f60df.png"></p>
+<p align="center"><img width="650"  src="https://codothon.com/wp-content/uploads/2022/10/Hacktoberfest-Time-to-Hack-Codothon.jpg"></p>
 
 <h3 align="center">
     <a href="https://hacktoberfest.com/">
