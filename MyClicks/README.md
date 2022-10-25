@@ -1,0 +1,6 @@
+***My Fotografia of 2022***
+
+| ![Snapchat-1620090488](https://user-images.githubusercontent.com/96351859/197721034-44acbfdf-178f-4b66-9a23-e5887e6cac43.jpg) |![Snapchat-963844632](https://user-images.githubusercontent.com/96351859/197720938-8b12dfd3-3e24-4641-ac5a-0b5a85ddd227.jpg) | ![Snapchat-686979128](https://user-images.githubusercontent.com/96351859/197721763-eaf82b0c-3f5f-4e31-9086-48b4e7750aea.jpg)
+|------|----------------------|-----|
+| ![Snapchat-1366259437](https://user-images.githubusercontent.com/96351859/197720466-e25349d5-32c0-4aa0-90ad-51cf1853203e.jpg) |![Snapchat-540840617](https://user-images.githubusercontent.com/101049112/197718981-5dc4dcdc-c468-4522-9a9c-1a0494ba1415.jpg) |![Snapchat-211065087](https://user-images.githubusercontent.com/101049112/197718919-916bf5ca-1621-4d46-a3b6-03824d19ba0e.jpg) |
+|![Snapchat-2132289938](https://user-images.githubusercontent.com/96351859/197722379-d2646482-5176-4489-b7c6-dccc8ac6d6ac.jpg)|![Snapchat-1541441319](https://user-images.githubusercontent.com/96351859/197720532-a3c65b5f-d675-42fe-910f-648614e035d2.jpg) |![Snapchat-2127122348](https://user-images.githubusercontent.com/96351859/197722317-32954911-2578-4fe0-b08b-a1ac4d4e8ed0.jpg)|
