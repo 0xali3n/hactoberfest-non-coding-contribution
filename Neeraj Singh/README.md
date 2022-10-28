@@ -1,1 +1,1 @@
-A simple Website using html and css about covid 19
+covid 19 awarness bootsrap website https://neerajlovecyber.github.io/covid19-website/
