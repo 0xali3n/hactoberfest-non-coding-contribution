@@ -1,0 +1,51 @@
+<html>
+<head><title>Background Colors</title></head>
+<body>
+<form>
+<input type="button" value="Color" onMouseOver='window.setTimeout("f1()",1000)'>
+<input type="button" value="Message" name="bmsg" onClick="msg()">
+</form>
+<script type="text/javascript">
+function f1()
+{
+   document.bgColor="blue";
+   window.setTimeout("f2()",1000);
+} 
+function f2()
+{
+   document.bgColor="pink";
+   window.setTimeout("f3()",1000);
+} 
+function f3()
+{
+   document.bgColor="green";
+   window.setTimeout("f4()",1000);
+} 
+function f4()
+{
+   document.bgColor="yellow";
+   window.setTimeout("f5()",1000);
+} 
+function f5()
+{
+   document.bgColor="red";
+   window.setTimeout("f6()",1000);
+} 
+function f6()
+{
+   document.bgColor="gray";
+   window.setTimeout("f7()",1000);
+} 
+function f7()
+{
+   document.bgColor="black";
+   window.setTimeout("f1()",1000);
+} 
+function msg()
+{
+   window.status="This is window Status.";
+   alert("Display background colors to browser window");
+}
+</script>
+</body>
+</html>
